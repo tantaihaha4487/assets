@@ -1,2 +1,2 @@
-# asset
-a asset file, image for readme, website etc..
+# Asset
+a Asset file, image for readme, website etc..
